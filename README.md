@@ -1,5 +1,5 @@
 
-# wargames-joshua
+# Joshua computer from Wargames
 
 ![WarGames](./wargames.jpg)
 
