@@ -1,6 +1,4 @@
-Отлично. Вот **финальная чистая версия README.md** без ASCII-арта — минимально аккуратный, современный и с твоим username:
 
-````markdown
 # wargames-joshua
 
 ![WarGames](./wargames.jpg)
